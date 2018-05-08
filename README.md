@@ -2,7 +2,7 @@
 
 ```
 .
-├── Test image           # put your datasets here
+├── Test image     # put your datasets here
 ├── lowlight       # lowlight image enhancement methods
 ├── VIF            # image quality metrics (blind or full-reference)
 ├── util           # provide commonly used utility functions
